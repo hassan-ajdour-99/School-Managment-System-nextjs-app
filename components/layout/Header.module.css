@@ -1,0 +1,29 @@
+.container {
+  padding: 1.2rem;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(94, 7, 151);
+  color: #fff;
+  cursor: pointer;
+}
+
+.logo {
+}
+
+.logo h2 {
+  font-size: 28px;
+}
+
+.list {
+}
+
+.list ul {
+  display: flex;
+  justify-content: center;
+  gap: 6rem;
+}
+
+.list ul li {
+  list-style: none;
+  font-size: 20px;
+}
