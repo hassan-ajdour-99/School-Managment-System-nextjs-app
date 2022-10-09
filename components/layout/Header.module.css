@@ -1,10 +1,14 @@
 .container {
+  position: fixed;
+  top: 0;
   padding: 1.2rem;
   display: flex;
   justify-content: space-around;
   background-color: rgb(94, 7, 151);
   color: #fff;
   cursor: pointer;
+  overflow-y: none;
+  width: 100%;
 }
 
 .logo {

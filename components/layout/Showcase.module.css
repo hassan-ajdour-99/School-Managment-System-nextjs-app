@@ -1,2 +1,31 @@
 .container {
+  background-color: rgb(94, 7, 151);
+  color: #fff;
+  padding: 5rem;
+}
+
+.content {
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  gap: 5rem;
+}
+
+.partA {
+  width: 60%;
+  margin-top: 3rem;
+}
+
+.partA button {
+  padding: 1rem;
+  width: 40%;
+  border-radius: 11px;
+  border: none;
+}
+
+.partB {
+  background-color: rgb(255, 255, 255);
+  border-radius: 50px;
 }
